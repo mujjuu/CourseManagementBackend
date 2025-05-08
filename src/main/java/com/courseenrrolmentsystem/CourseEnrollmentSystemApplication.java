@@ -10,7 +10,6 @@ public class CourseEnrollmentSystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CourseEnrollmentSystemApplication.class, args);
 
-
 	}
 
 }
